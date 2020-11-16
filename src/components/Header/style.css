@@ -1,0 +1,7 @@
+.header {
+    text-align: center;
+    background: linear-gradient(to bottom right, rgb(21, 255, 0), rgb(0, 255, 213));
+    color: rgb(26, 23, 23);
+    padding: 30px;
+    font-family: 'Poppins', sans-serif;
+}
